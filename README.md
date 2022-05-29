@@ -1,2 +1,2 @@
 # Thief
-plugin CSGO Thief
+Thief plugin for CS:GO
