@@ -1,0 +1,2 @@
+# Thief
+plugin CSGO Thief
